@@ -4,6 +4,10 @@ This project contains a Forge app written in Javascript that logs ```Hello World
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
+The tutorial is for how to automate Jira using triggers from this page:
+
+[https://developer.atlassian.com/platform/forge/automate-jira-using-triggers/](https://developer.atlassian.com/platform/forge/automate-jira-using-triggers/)
+
 ## Requirements
 
 See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
