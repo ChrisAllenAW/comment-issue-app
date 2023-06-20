@@ -1,0 +1,11 @@
+modules:
+  trigger:
+    - key: comment-issue-app-hello-world
+      function: main
+      events:
+        - avi:jira:created:issue
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/677ebf8a-c91f-4426-ba68-c75d51a2dd01
